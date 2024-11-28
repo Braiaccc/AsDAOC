@@ -37,7 +37,7 @@ Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS, 
 Abra seu terminal e execute o comando:
 
 ```bash
-https://github.com/Braiaccc/AsDAOC
+git clone https://github.com/Braiaccc/AsDAOC
 ```
 
 ---
