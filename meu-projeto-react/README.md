@@ -1,8 +1,70 @@
-# React + Vite
+# React App - Entregável
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS e outras ferramentas modernas, seguindo boas práticas de organização de pastas e componentes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Funcionalidades
+
+- **Componentes reutilizáveis**: Como `Header`, `ParticipantCard` e `CadastroList`.
+- **Hooks customizados**: Implementação de hooks como `useFetch` para facilitar a manipulação de dados.
+- **Navegação entre páginas**: Páginas separadas (`Home`, `Contact`, `Products`) para uma navegação fluida.
+- **Estilização eficiente**: Uso do Tailwind CSS para estilização rápida e consistente.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React**: Biblioteca principal para construção da interface do usuário.
+- **Vite**: Ferramenta de build rápida e eficiente.
+- **Tailwind CSS**: Framework de CSS utilitário para estilização.
+- **JavaScript (ES6+)**: Linguagem utilizada no projeto.
+- **Axios/Fetch**: Para requisições HTTP (configurado no hook `useFetch`).
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Siga os passos abaixo para clonar e rodar o projeto localmente:
+
+### 1. Pré-requisitos
+
+Certifique-se de ter as ferramentas a seguir instaladas no seu ambiente:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) 
+
+---
+
+### 2. Clonar o Repositório
+
+Abra seu terminal e execute o comando:
+
+```bash
+https://github.com/Braiaccc/AsDAOC
+```
+
+---
+
+### 3. Instalar Dependências
+
+```bash
+npm install
+```
+
+---
+
+### 4. Executar o Servidor de Desenvolvimento
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Estrutura de Pastas
+- src/assets: Arquivos estáticos, como imagens e ícones.
+- src/components: Componentes reutilizáveis.
+- src/hooks: Hooks customizados.
+- src/pages: Páginas principais do app.
+- src: Contém a entrada principal (App.jsx, main.jsx) e os estilos globais (index.css).
