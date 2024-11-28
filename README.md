@@ -25,11 +25,7 @@ Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS, 
 
 ## 🚀 Como Executar o Projeto
 
-Siga os passos abaixo para clonar e rodar o projeto localmente:
-
 ### 1. Pré-requisitos
-
-Certifique-se de ter as ferramentas a seguir instaladas no seu ambiente:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) 
