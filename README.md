@@ -1,6 +1,6 @@
 # React App - Entregável
 
-Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS e outras ferramentas modernas, seguindo boas práticas de organização de pastas e componentes.
+Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS, seguindo boas práticas de organização de pastas e componentes.
 
 ---
 
