@@ -1,6 +1,6 @@
 # React App - Entregável
 
-Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS e outras ferramentas modernas, seguindo boas práticas de organização de pastas e componentes.
+Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS, seguindo boas práticas de organização de pastas e componentes.
 
 ---
 
@@ -25,11 +25,7 @@ Este repositório contém um projeto React desenvolvido com Vite, Tailwind CSS e
 
 ## 🚀 Como Executar o Projeto
 
-Siga os passos abaixo para clonar e rodar o projeto localmente:
-
 ### 1. Pré-requisitos
-
-Certifique-se de ter as ferramentas a seguir instaladas no seu ambiente:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) 
@@ -41,7 +37,7 @@ Certifique-se de ter as ferramentas a seguir instaladas no seu ambiente:
 Abra seu terminal e execute o comando:
 
 ```bash
-https://github.com/Braiaccc/AsDAOC
+git clone https://github.com/Braiaccc/AsDAOC
 ```
 
 ---
